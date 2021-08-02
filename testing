@@ -1,2 +1,5 @@
 while wait do() -- warming up the kicks! o.o
 plr:Kick('Bye!')
+else
+if syn request then
+plr:Kick('Even though you have synapse, but bye!')
