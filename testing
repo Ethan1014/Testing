@@ -1,1 +1,14 @@
-Hi
+-- Open sourced project made by: Ethan (Cutie)
+-- Works for tycoon games that uses 'money' as a currency.
+game.ReplicatedStorage.LocalPlayer.money.FireServer == NaN
+wait(0.5)
+print('Ethan the cutie successfully fucked a girl.')
+if loaded IY --Infinite Yield
+then
+plr:Kick('Why u use different script other than mine. Mean...')
+if James_Charles request then
+plr:Kick('James Charles isn't allowed to use this script.') --LMAO a meme.
+
+if Protosmasher_API request then
+plr:Kick('They stealing ur money skid, go get a life.')
+end)
