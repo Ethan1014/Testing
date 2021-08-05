@@ -41,6 +41,6 @@ use metatable = mathset('8*8*8*8*8') //-- It duplicates
 if 
 Group.User = 'Moderator', 'Admin' , 'Developer' , 'Owner'
 then
-plr:Kick('SHOO SHOO a person with a higher ranked join the server.')
+plr:Kick('SHOO SHOO a person with a higher rank join the server.')
 wait(0.5)
 print('Penis Drawer Loaded Successfully')
