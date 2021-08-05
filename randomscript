@@ -1,0 +1,46 @@
+//-- Produced by TOP4K4.
+//-- Made by: Overlord_Z#0002, Ethan#8888, RealJames#0001
+//-- If you haven't already join our discord: discord.gg/top4k4ontop
+//-- REMINDER: This works for games that supports: 'Building Blocks' and a group. And this is Universal, Enjoy while it lasts!
+
+if game.loaded then
+else
+if game.notloaded then =
+print('Game Not loaded, Please wait for the game the load then try again.')
+return
+
+Notifiction = SetCore.Setoff =
+  {
+    "Random script I made in like 5 minutes.
+    Duration = '5'
+  {
+//-- Checking if your Executor have drawing API. You can't remove the check, This script has to have Drawing API supported. Or it will not work.
+--}}
+if current.executors('Drawing API') then
+game.Workspace.LocalPlayer.Humanoid.Health = 500
+game.Workspace.LocalPlayer.Humanoid.Walkspeed = 50 //-- Set this to whatever you want.
+game.Workspace.LocalPlayer.Humanoid.JumpPower = 50 //-- Set this to whatever you want also.
+attach.clipboard.locallink = 'discord.gg/top4k4ontop'
+then
+wait(0.5)
+print('Script is loading.')
+if supported drawing.api
+then
+game.LocalPosition.Set = 50.25.25
+local tool.create = 'Penis Drawer'
+if tool = 'Penis Drawer' then 
+Workspace.LocalPlayers.StarterGear
+//-- This is the part where drawing api comes in handy.
+if tool = 'Penis Drawer' equipped.backpack
+then
+Penis Drawer.Position = 25.65.79
+Penis Drawer.Equipped = true
+if spray.SetPenis Drawer.function
+wait(0.1)
+use metatable = mathset('8*8*8*8*8') //-- It duplicates
+if 
+Group.User = 'Moderator', 'Admin' , 'Developer' , 'Owner'
+then
+plr:Kick('SHOO SHOO a person with a higher ranked join the server.')
+wait(0.5)
+print('Penis Drawer Loaded Successfully')
